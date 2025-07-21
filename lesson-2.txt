@@ -1,0 +1,5 @@
+1.
+git init: khởi tạo git
+git add <file_name>: thêm riêng lẻ 1 file
+git add . : thêm tất cả 
+git commit -m "message: commnit thay đổi trước khi push code lên
